@@ -1,6 +1,6 @@
-=== Hello Elementor Child ===
+=== Hyroes Child Theme ===
 
-Contributors: elemntor
+Contributors: alexgodlewski
 Requires at least: 5.9
 Tested up to: 6.2
 Stable tag: 2.0.0
@@ -10,13 +10,13 @@ License: GNU General Public License v3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Tags: flexible-header, custom-colors, custom-menu, custom-logo, editor-style, featured-images, rtl-language-support, threaded-comments, translation-ready
 
-The Hello Elementor Child Theme is a starter blank child theme for [Hello Elementor](https://wordpress.org/themes/hello-elementor/) theme.
+The Hyroes Child Theme is a custom child theme built on [Hello Elementor](https://wordpress.org/themes/hello-elementor/) for https://hyroes.com.
 
 == Description ==
 
-Hello Elementor Child is a lightweight and minimalist WordPress theme that was built specifically to work seamlessly with the Elementor page builder plugin. The theme is free, open-source, and designed for users who want a flexible, easy-to-use, and customizable website.
+The Hyroes Child Theme is a lightweight and minimalist WordPress theme built specifically for https://hyroes.com. Based on Hello Elementor, it provides seamless integration with the Elementor page builder plugin while maintaining the custom branding and functionality needed for the Hyroes website.
 
-The theme's main focus is on providing a solid foundation for users to build their own unique designs using the Elementor drag-and-drop site builder. It is optimized for speed and performance, and its simplicity and flexibility make it a great choice for both beginners and experienced website designers.
+This theme is optimized for speed and performance, providing a solid foundation for building unique designs using the Elementor drag-and-drop site builder. It maintains all the flexibility of Hello Elementor while incorporating Hyroes-specific customizations.
 
 The theme supports common WordPress features which can be extended using a child-theme. In addition, there are several ways to add custom styles. It can be done from **Elementor**, from the WordPress customizer, using a child-theme, or with an external plugin. To customize the theme further, visit [Elementor developers docs](https://developers.elementor.com/docs/hello-elementor-theme/).
 
