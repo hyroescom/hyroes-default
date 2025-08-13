@@ -17,3 +17,6 @@ Tags: flexible-header, custom-colors, custom-menu, custom-logo, editor-style, fe
 p:last-child {
     margin-bottom: 0;
 }
+.elementor-icon-wrapper {
+	line-height:0px;
+}
